@@ -1,0 +1,43 @@
+LIFO e FIFO
+
+O que é FIFO e LIFO
+
+FIFO (First In, First Out), que em português quer dizer “primeiro que entra, primeiro que sai”, é um método de controle onde os produtos que chegam primeiro também são os primeiros a sair. Esse tipo é bem comum em lugares que trabalham com produtos que vencem rápido, tipo mercados, farmácias e restaurantes.
+Por exemplo: num açougue, a carne que chegou primeiro precisa ser vendida antes das novas, pra não estragar e dar prejuízo.
+
+LIFO (Last In, First Out), que significa “último que entra, primeiro que sai”, funciona ao contrário. Nesse sistema, o produto mais novo é o primeiro que vai sair. É mais usado em empresas com produtos que não estragam, como peças de computador, materiais de construção ou componentes eletrônicos.
+
+
+---
+
+Diferenças entre FIFO e LIFO
+
+FIFO
+
+Dá prioridade pros produtos mais antigos.
+
+Ideal pra mercadorias que vencem rápido ou podem estragar.
+
+Evita desperdício e deixa o estoque mais organizado.
+
+Em períodos de inflação, pode gerar mais lucro porque os produtos antigos (que custaram menos) são usados primeiro no cálculo das vendas.
+
+
+LIFO
+
+Usa primeiro os produtos que entraram por último.
+
+Indicado pra produtos que não são perecíveis.
+
+Pode ser vantajoso em cálculos contábeis, já que usa os custos mais recentes (geralmente mais altos), o que pode diminuir o lucro declarado e até reduzir impostos.
+
+Mas o lado ruim é que o valor final do estoque pode ficar meio fora da realidade do mercado.
+
+
+
+---
+
+Resumindo
+
+O FIFO é melhor pra quem quer manter o estoque girando e evitar perdas, já o LIFO é mais usado pra quem quer acompanhar mudanças de custos e usar isso como estratégia financeira.
+Cada método tem suas vantagens, então depende do tipo de produto e da necessidade da empresa.
